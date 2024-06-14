@@ -6,3 +6,5 @@ display.py为调参运行代码
 之后在终端中指定目录下运行python display.py即可运行代码
 
 datasets文件中缺失的magnet数据集可从SGT模型研发者的GITHUB中下载
+
+packages：numpy pandas scipy tqdm matplotlib scikit-learn torch
